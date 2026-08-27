@@ -1,0 +1,8 @@
+{
+  "name": "Starlight Island",
+  "description": "A cozy cross-platform 3D browser experience with VRM characters, physics, and interactive environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
